@@ -1,0 +1,16 @@
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.csproj.AssemblyReference.cache
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.AssemblyInfoInputs.cache
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.AssemblyInfo.cs
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.csproj.CoreCompileInputs.cache
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.exe
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.deps.json
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.runtimeconfig.json
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.runtimeconfig.dev.json
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.dll
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\bin\Debug\net5.0\CalculadoradaMallu.pdb
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.dll
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\refint\CalculadoradaMallu.dll
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.pdb
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\CalculadoradaMallu.genruntimeconfig.cache
+D:\Curso generation\CalculadoradaMallu\CalculadoradaMallu\obj\Debug\net5.0\ref\CalculadoradaMallu.dll
